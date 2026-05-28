@@ -30,3 +30,11 @@ Sou o Vitor, iniciei meus estudos em ADS no ano de 2026 e há 3 anos busco aprim
   <!-- CSS3 -->
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
+
+---
+
+### 📞 Contato
+
+<a href="https://instagram.com/vitinho_007_official" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
